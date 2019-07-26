@@ -1,0 +1,22 @@
+html, body, header, aside, nav, ul, h2, h1, p, li, ol, section, footer {
+  margin: 0;
+  padding: 0;
+  border: 0;
+
+  font: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  text-decoration: inherit;
+  text-align: inherit;
+
+  list-style: none;
+
+}
+
+body {
+  line-height: 1.5;
+}
+
+img {
+  width: inherit;
+}
