@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby 
+
+def sign_in
+  puts 'Enter your email: '
+  email = gets.chomp
+  
+end
